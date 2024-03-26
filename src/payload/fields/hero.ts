@@ -57,7 +57,7 @@ export const hero: Field = {
       required: true,
       admin: {
         condition: (_, { type } = {}) => 
-      ['highImpact', 'mediumImpact', 'customHero'].includes(type),
+          ['highImpact', 'mediumImpact', 'customHero'].includes(type),
       },
     },
   ],
