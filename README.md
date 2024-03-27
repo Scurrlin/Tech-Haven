@@ -1,5 +1,5 @@
 # Tech Haven
-An E Commerce website for all your tech needs!
+An E-Commerce website for all your tech needs!
 
 ![banner_image](https://i.imgur.com/58bKcSw.png)
 
