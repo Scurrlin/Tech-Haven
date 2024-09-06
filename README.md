@@ -21,9 +21,8 @@ An E-Commerce website for all your tech needs!
 ## Technologies Used
 * HTML/JS/CSS
 * Payload
-* React
-* TypeScript
 * NextJS
+* TypeScript
 * Stripe
 
 ## Credits
